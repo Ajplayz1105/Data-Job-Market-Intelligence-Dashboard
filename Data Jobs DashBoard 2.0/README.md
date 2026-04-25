@@ -4,12 +4,6 @@ An enhanced **Power BI** dashboard — the upgraded successor to [Data Jobs Dash
 
 ---
 
-## 🖥️ Dashboard Preview
-
-![Data Jobs Dashboard 2.0](./screenshots/dashboard_v2.png)
-
----
-
 ## 📁 File
 
 | File | Description |

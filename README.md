@@ -46,18 +46,6 @@ The upgraded dashboard — rebuilt with a **dark theme** and expanded to answer 
 
 ---
 
-## 📸 Dashboard Previews
-
-### Data Jobs Dashboard 1.0
-![Dashboard v1](./data-jobs-dashboard/screenshots/dashboard_v1.png)
-
-### Data Jobs Dashboard 2.0
-![Dashboard v2](./data-jobs-dashboard-2.0/screenshots/dashboard_v2.png)
-
-### Drill-Through — Job Title Detail
-![Drill Through](./data-jobs-dashboard/screenshots/drill_through.png)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -107,5 +95,3 @@ data-analytics-portfolio/
 Built by a data enthusiast passionate about turning job market data into visual, actionable insights.  
 Feel free to explore, fork, or connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)

@@ -4,15 +4,6 @@ An interactive **Power BI** dashboard visualizing **479,000+ real-world data job
 
 ---
 
-## 🖥️ Dashboard Preview
-
-### Main Dashboard
-![Data Jobs Dashboard 1.0](./screenshots/dashboard_v1.png)
-
-### Drill-Through — Job Title Detail Page
-![Drill-Through Page](./screenshots/drill_through.png)
-
----
 
 ## 📁 File
 
